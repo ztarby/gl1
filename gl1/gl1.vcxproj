@@ -154,6 +154,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="default.frag" />
+    <Text Include="trash.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="default.vert" />

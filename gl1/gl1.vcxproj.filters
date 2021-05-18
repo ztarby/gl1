@@ -41,6 +41,9 @@
     <Text Include="default.frag">
       <Filter>Archivos de recursos\shaders</Filter>
     </Text>
+    <Text Include="trash.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <None Include="default.vert">
