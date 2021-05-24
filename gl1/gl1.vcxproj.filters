@@ -36,6 +36,9 @@
     <ClCompile Include="VAO.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="glmain.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="default.frag">
@@ -61,6 +64,9 @@
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="VAO.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="glmainr.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
