@@ -1,3 +1,11 @@
 #pragma once
 
-void g_main();
+#include<iostream>
+#include<glad/glad.h>
+#include<GLFW/glfw3.h>
+#include<vector>
+
+namespace topo {
+	void g_main();
+	//GLfloat vertices1[36];
+}

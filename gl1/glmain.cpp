@@ -7,9 +7,9 @@
 #include"VAO.h"
 #include"EBO.h"
 #include"shaderClass.h"
+#include"glmainr.h"
 
-
-void g_main() {
+ void topo::g_main() {
 
 
 	glfwInit();
@@ -50,7 +50,7 @@ void g_main() {
 
 	VAO VAO1;
 	VAO1.Bind();
-
+	
 	VBO VBO1(vertices, sizeof(vertices));
 
 	EBO EBO1(indices, sizeof(indices));
@@ -90,3 +90,5 @@ void g_main() {
 
 	
 }
+
+
